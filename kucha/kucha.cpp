@@ -104,7 +104,7 @@ int main()
     v.pop_back();
     ifstream file;
     int num = 0;
-    file.open("U:/Khmelevskiy Vladimir/kucha/task5.txt");
+    file.open("your addres");
     for (int i = 0; i < 160000; i++) {
         file >> num;
         v.push_back(num);
