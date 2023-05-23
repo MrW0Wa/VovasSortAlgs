@@ -1,0 +1,20 @@
+﻿  kucha.cpp
+U:\Khmelevskiy Vladimir\kucha\kucha\kucha.cpp(58,23): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+U:\Khmelevskiy Vladimir\kucha\kucha\kucha.cpp(80,22): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+U:\Khmelevskiy Vladimir\kucha\kucha\kucha.cpp(120,24): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+U:\Khmelevskiy Vladimir\kucha\kucha\kucha.cpp(138,16): warning C4244: инициализация: преобразование "_Rep" в "long", возможна потеря данных
+          with
+          [
+              _Rep=__int64
+          ]
+U:\Khmelevskiy Vladimir\kucha\kucha\kucha.cpp(149,64): warning C4244: =: преобразование "_Rep" в "long", возможна потеря данных
+          with
+          [
+              _Rep=__int64
+          ]
+U:\Khmelevskiy Vladimir\kucha\kucha\kucha.cpp(160,63): warning C4244: =: преобразование "_Rep" в "long", возможна потеря данных
+          with
+          [
+              _Rep=__int64
+          ]
+  kucha.vcxproj -> U:\Khmelevskiy Vladimir\kucha\kucha\x64\Debug\kucha.exe
