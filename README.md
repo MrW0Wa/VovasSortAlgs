@@ -1,2 +1,2 @@
 # VovasSortAlgs
-these are the srting algorithms I wrote. HeapSort. BubbleSort.
+these are the sorting algorithms I wrote. HeapSort. BubbleSort.
